@@ -12,6 +12,6 @@ for(int i=0;i<n;i++)
 
 float avg=sum/n;
 printf("sum is %d\n",sum);
-printf("avg is %f\n",avg);
+printf("avg is %.2f\n",avg);
 return 0;
 }
